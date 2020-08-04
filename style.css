@@ -93,5 +93,14 @@ body {
        padding: 0.5rem 5rem;
        background: #c0c0c0;
    }
+<<<<<<< HEAD
   
 
+=======
+
+   /*section*/
+  #section h2 {
+      align-items: center;
+      display: inline-flex;
+  }
+>>>>>>> 6e2d52e00e2b98d47ea36c3d878f25664bad19d3
